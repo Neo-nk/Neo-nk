@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Neo-nk
+- 👀 I’m interested in solving problems using code
+- 🌱 I’m currently learning C++, C# and object oriented programming
+- 💞️ I’m looking to collaborate on ...(nothing yet)
+- 📫 How to reach me Neo.nt2311@gmail.com
